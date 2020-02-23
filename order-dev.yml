@@ -11,5 +11,5 @@ spring:
 env:
   dev1
 girl:
-  name: lili
+  name: azhu
   age: 21
