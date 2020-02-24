@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: product
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: cnmlgb123
+    url: jdbc:mysql://127.0.0.1:3306/SpringCloud_Sell?characterEncoding=utf-8&useSSl=false
+  jpa:
+    show-sql: true
+  rabbitmq:
+    host: 172.16.219.154
+    port: 5672
+env:
+  dev1
+girl:
+  name: lili
+  age: 22
