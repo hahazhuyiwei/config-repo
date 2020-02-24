@@ -11,6 +11,9 @@ spring:
   rabbitmq:
     host: 172.16.219.154
     port: 5672
+  redis:
+    host: 172.16.219.154
+    port: 6379
 env:
   dev1
 girl:
